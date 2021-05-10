@@ -1,0 +1,7 @@
+/dist/
+/build/
+/*.js
+/public/
+/src/assets/
+/src/icons/svg/
+/test/
